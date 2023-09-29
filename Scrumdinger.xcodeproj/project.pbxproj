@@ -16,6 +16,7 @@
 		81F47A6F2AC7536000EB7ABD /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F47A6E2AC7536000EB7ABD /* CardView.swift */; };
 		81F47A712AC7588B00EB7ABD /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F47A702AC7588B00EB7ABD /* TrailingIconLabelStyle.swift */; };
 		81F47A732AC75BA800EB7ABD /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F47A722AC75BA800EB7ABD /* ScrumsView.swift */; };
+		81F47A752AC7699900EB7ABD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F47A742AC7699900EB7ABD /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		81F47A6E2AC7536000EB7ABD /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		81F47A702AC7588B00EB7ABD /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		81F47A722AC75BA800EB7ABD /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		81F47A742AC7699900EB7ABD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				81F47A5C2AC7480F00EB7ABD /* MeetingView.swift */,
 				81F47A6E2AC7536000EB7ABD /* CardView.swift */,
 				81F47A722AC75BA800EB7ABD /* ScrumsView.swift */,
+				81F47A742AC7699900EB7ABD /* DetailView.swift */,
 				81F47A702AC7588B00EB7ABD /* TrailingIconLabelStyle.swift */,
 				81F47A5E2AC7481100EB7ABD /* Assets.xcassets */,
 				81F47A602AC7481100EB7ABD /* Scrumdinger.entitlements */,
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81F47A6D2AC751FB00EB7ABD /* DailyScrum.swift in Sources */,
+				81F47A752AC7699900EB7ABD /* DetailView.swift in Sources */,
 				81F47A712AC7588B00EB7ABD /* TrailingIconLabelStyle.swift in Sources */,
 				81F47A6B2AC7508B00EB7ABD /* Theme.swift in Sources */,
 				81F47A732AC75BA800EB7ABD /* ScrumsView.swift in Sources */,
