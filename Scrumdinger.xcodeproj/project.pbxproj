@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		811886EE2AC8437C00FC2084 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811886ED2AC8437C00FC2084 /* MeetingHeaderView.swift */; };
 		8177CD752AC83146002ECB4C /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8177CD742AC83146002ECB4C /* DetailEditView.swift */; };
 		8177CD772AC8395C002ECB4C /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8177CD762AC8395C002ECB4C /* ThemeView.swift */; };
 		81B516C32AC83B2A000B7336 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B516C22AC83B2A000B7336 /* ThemePicker.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		811886ED2AC8437C00FC2084 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		8177CD742AC83146002ECB4C /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		8177CD762AC8395C002ECB4C /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		81B516C22AC83B2A000B7336 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				8177CD742AC83146002ECB4C /* DetailEditView.swift */,
 				8177CD762AC8395C002ECB4C /* ThemeView.swift */,
 				81B516C22AC83B2A000B7336 /* ThemePicker.swift */,
+				811886ED2AC8437C00FC2084 /* MeetingHeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				81B516C32AC83B2A000B7336 /* ThemePicker.swift in Sources */,
 				81F47A6D2AC751FB00EB7ABD /* DailyScrum.swift in Sources */,
 				81F47A752AC7699900EB7ABD /* DetailView.swift in Sources */,
+				811886EE2AC8437C00FC2084 /* MeetingHeaderView.swift in Sources */,
 				8177CD752AC83146002ECB4C /* DetailEditView.swift in Sources */,
 				81F47A712AC7588B00EB7ABD /* TrailingIconLabelStyle.swift in Sources */,
 				81F47A6B2AC7508B00EB7ABD /* Theme.swift in Sources */,
